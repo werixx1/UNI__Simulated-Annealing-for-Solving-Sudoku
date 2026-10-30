@@ -28,7 +28,9 @@ A Sudoku solver written in C that uses the Simulated Annealing optimization algo
     ```
 > (skip -lm if using windows)
        
-![alt text](screenshot.png)
+<p align="center">
+    <img src="screenshot.png" width=400>
+</p>
 
 ## Helpful resources:
 - [Simulated Annealing – YouTube](https://www.youtube.com/watch?v=FyyVbuLZav8)
